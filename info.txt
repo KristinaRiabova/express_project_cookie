@@ -1,0 +1,7 @@
+http://localhost:3000/cookie/set?cookieName=chocolate&cookieValue=123&httpOnly=true
+
+http://localhost:3000/cookie/get/chocolate
+
+http://localhost:3000/header/set?headerName=vanilla&headerValue=1024
+
+http://localhost:3000/header/get/vanilla
